@@ -1,0 +1,10 @@
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.csprojAssemblyReference.cache
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.frmMain.resources
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.Properties.Resources.resources
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.csproj.GenerateResource.cache
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\bin\Debug\学生管理系统数据库版.exe.config
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\bin\Debug\学生管理系统数据库版.exe
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\bin\Debug\学生管理系统数据库版.pdb
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.exe
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\学生管理系统数据库版\obj\Debug\学生管理系统数据库版.pdb

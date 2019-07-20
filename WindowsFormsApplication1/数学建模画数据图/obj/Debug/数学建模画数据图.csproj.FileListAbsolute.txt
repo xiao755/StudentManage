@@ -1,0 +1,10 @@
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\bin\Debug\数学建模画数据图.exe.config
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\bin\Debug\数学建模画数据图.exe
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\bin\Debug\数学建模画数据图.pdb
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.Form1.resources
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.Properties.Resources.resources
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.csproj.GenerateResource.cache
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.exe
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.pdb
+D:\Documents\jianhuahuibian\学生管理系统\WindowsFormsApplication1\数学建模画数据图\obj\Debug\数学建模画数据图.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\studentmanage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\studentmanage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\studentmanage.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\studentmanage.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\studentmanage.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\studentmanage.pdb
